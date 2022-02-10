@@ -28,12 +28,8 @@ Returns The function returns nothing. Print the calculated value, rounded to the
 ## Input Format
 There are **3** lines of numeric input:
 The first line has a double, **meal_cost** (the cost of the meal before tax and tip).
-The second line has an integer, **tip_percent** (the percentage of  being added as tip).
-The third line has an integer, **tax_percent** (the percentage of  being added as tax).
-
-## Output Format
-
-Print the sum of both integers on the first line, the sum of both doubles (scaled to  decimal place) on the second line, and then the two concatenated strings on the third line.
+The second line has an integer, **tip_percent** (the percentage of mealCost being added as tip).
+The third line has an integer, **tax_percent** (the percentage of mealCost being added as tax).
 
 ## Sample Input
 
@@ -50,9 +46,10 @@ Print the sum of both integers on the first line, the sum of both doubles (scale
 ```
 
 ## Explanation
+Given:
+meal_cost = 12, tip_percent = 20, tax_percent = 8
 
-When we sum the integers **4** and **12**, we get the integer **16**.
-When we sum the floating-point numbers **4.0** and **4.0**, we get **8.0**.
-When we concatenate **HackerRank** with **is the best place to learn and practice coding!**, we get **HackerRank is the best place to learn and practice coding!**.
-
-You will not pass this challenge if you attempt to assign the Sample Case values to your variables instead of following the instructions above and reading input from stdin.
+Calculations:
+tip = 12 and 12/100 x 20 = 2.4
+tax = 8 and 8/100 x 20 = 0.96
+total_cost = meal_cost + tip + tax = 12 + 2.4 + 0.96 = 15.36
