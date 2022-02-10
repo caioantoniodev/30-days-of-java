@@ -50,6 +50,6 @@ Given:
 meal_cost = 12, tip_percent = 20, tax_percent = 8
 
 Calculations:
-tip = 12 and 12/100 x 20 = 2.4
-tax = 8 and 8/100 x 20 = 0.96
-total_cost = meal_cost + tip + tax = 12 + 2.4 + 0.96 = 15.36
+- tip = 12 and 12/100 x 20 = 2.4
+- tax = 8 and 8/100 x 20 = 0.96
+- total_cost = meal_cost + tip + tax = 12 + 2.4 + 0.96 = 15.36
