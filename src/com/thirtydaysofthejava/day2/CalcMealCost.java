@@ -1,6 +1,6 @@
 package com.thirtydaysofthejava.day2;
 
-class Result {
+class CalcMealCost {
     public static void solve(double mealCost, int tipPercent, int taxPercent) {
         double tip = (tipPercent / 100.0) * mealCost;
         double tax = (taxPercent / 100.0) * mealCost;
