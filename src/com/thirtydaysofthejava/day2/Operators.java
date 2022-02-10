@@ -14,7 +14,7 @@ public class Operators {
 
         int taxPercent = Integer.parseInt(bufferedReader.readLine().trim());
 
-        Result.solve(mealCost, tipPercent, taxPercent);
+        CalcMealCost.solve(mealCost, tipPercent, taxPercent);
 
         bufferedReader.close();
     }
