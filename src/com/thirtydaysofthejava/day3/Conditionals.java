@@ -12,9 +12,9 @@ public class Conditionals {
 
         if (isOdd(N))
             System.out.println("Weird");
-        else if (greaterThanTwoAndLessThanFive(N))
+        else if (isGreaterThanTwoAndLessThanFive(N))
             System.out.println("Not Weird");
-        else if (greaterThanSixAndLessThanTwenty(N))
+        else if (isGreaterThanSixAndLessThanTwenty(N))
             System.out.println("Weird");
         else
             System.out.println("Not Weird");
@@ -26,11 +26,11 @@ public class Conditionals {
         return n % 2 == 1;
     }
 
-    public static boolean greaterThanTwoAndLessThanFive(Integer n)     {
+    public static boolean isGreaterThanTwoAndLessThanFive(Integer n)     {
         return n >= 2 && n <= 5;
     }
 
-    public static boolean greaterThanSixAndLessThanTwenty(Integer n)     {
+    public static boolean isGreaterThanSixAndLessThanTwenty(Integer n)     {
         return n >= 6 && n <= 20;
     }
 }
