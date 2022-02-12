@@ -55,15 +55,19 @@ You are old.
 
 ## Explanation
 Test Case 0: **initialAge** = -1
+
 Because **initialAge** < 0, our code must set **age** to **0** and print the "Age is not valid..." message followed by the young message. Three years pass and **age = 3**, so we print the young message again.
 
 Test Case 1: **initialAge** = 10
+
 Because **initialAge** < 13, our code should print that the person is young. Three years pass and **age** = 13, so we print that the person is now a teenager.
 
 Test Case 2: **initialAge** = 16
+
 Because 13 <= **initialAge** < 18, our code should print that the person is a teenager. Three years pass and **age** = 19, so we print that the person is old.
 
 Test Case 3: **initialAge** = 18
+
 Because **initialAge** >= 18, our code should print that the person is old. Three years pass and the person is still old at **age** = 21, so we print the old message again.
 
 **The extra line at the end of the output is supposed to be there and is trimmed before being compared against the test case's expected output. If you're failing this challenge, check your logic and review your print statements for spelling errors.**
