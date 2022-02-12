@@ -7,3 +7,4 @@
 1️⃣ [Data Types](https://github.com/ca1o19c/30-days-of-java/tree/main/src/com/thirtydaysofthejava/day1) <br />
 2️⃣ [Operators](https://github.com/ca1o19c/30-days-of-java/tree/main/src/com/thirtydaysofthejava/day2) <br />
 3️⃣ [Conditionals](https://github.com/ca1o19c/30-days-of-java/tree/main/src/com/thirtydaysofthejava/day3)
+4️⃣ [Class vs. Instance](https://github.com/ca1o19c/30-days-of-java/tree/main/src/com/thirtydaysofthejava/day4)
