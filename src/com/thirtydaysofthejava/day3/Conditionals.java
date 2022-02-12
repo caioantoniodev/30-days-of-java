@@ -26,11 +26,11 @@ public class Conditionals {
         return n % 2 == 1;
     }
 
-    public static boolean isGreaterThanTwoAndLessThanFive(Integer n)     {
+    public static boolean isGreaterThanTwoAndLessThanFive(Integer n) {
         return n >= 2 && n <= 5;
     }
 
-    public static boolean isGreaterThanSixAndLessThanTwenty(Integer n)     {
+    public static boolean isGreaterThanSixAndLessThanTwenty(Integer n) {
         return n >= 6 && n <= 20;
     }
 }
