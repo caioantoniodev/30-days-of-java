@@ -7,6 +7,7 @@ public class Review {
         Scanner scanner = new Scanner(System.in);
 
         int cases = scanner.nextInt();
+
         scanner.nextLine();
 
         for (int i = 0; i < cases; i++) {
