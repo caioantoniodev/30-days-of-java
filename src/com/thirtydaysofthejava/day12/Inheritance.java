@@ -3,10 +3,13 @@ package com.thirtydaysofthejava.day12;
 public class Inheritance {
 
     public static void main(String[] args) {
+
         int[] testScores = { 100, 80 };
 
         Student s = new Student("7L0j2Js", "2Fqok", 420, testScores);
+
         s.printPerson();
+
         System.out.println("Grade: "+s.calculate());
     }
 }
