@@ -8,7 +8,7 @@ public class Testing {
 
     public static void testWithEmptyArray() {
         try {
-            int[] seq = testDataEmptyArray.getArray();
+            int[] seq = TestDataEmptyArray.getArray();
             int result = minimumIndex(seq);
         } catch (IllegalArgumentException e) {
             return;
@@ -17,18 +17,18 @@ public class Testing {
     }
 
     public static void testWithUniqueValues() {
-        int[] seq = testDataUniqueValues.getArray();
+        int[] seq = TestDataUniqueValues.getArray();
 
         if (seq.length < 2) throw new AssertionError("less than 2 elements in the array");
 
         Integer[] tmp = new Integer[seq.length];
 
-        for (int i = 0; i < seq.length; ++i) tmp[i] = Integer.valueOf(seq[i]);
+        for (int i = 0; i < seq.length; ++i) tmp[i] = seq[i];
 
         if (!(new LinkedHashSet<Integer>(Arrays.asList(tmp)).size() == seq.length))
             throw new AssertionError("not all values are unique");
 
-        int expectedResult = testDataUniqueValues.getExpectedResult();
+        int expectedResult = TestDataUniqueValues.getExpectedResult();
 
         int result = minimumIndex(seq);
 
@@ -36,7 +36,7 @@ public class Testing {
     }
 
     public static void testWithExactlyTwoDifferentMinimums() {
-        int[] seq = testDataExactlyTwoDifferentMinimums.getArray();
+        int[] seq = TestDataExactlyTwoDifferentMinimums.getArray();
         if (seq.length < 2) {
             throw new AssertionError("less than 2 elements in the array");
         }
@@ -47,7 +47,7 @@ public class Testing {
             throw new AssertionError("there are not exactly two minimums in the array");
         }
 
-        int expectedResult = testDataExactlyTwoDifferentMinimums.getExpectedResult();
+        int expectedResult = TestDataExactlyTwoDifferentMinimums.getExpectedResult();
         int result = minimumIndex(seq);
         if (result != expectedResult) {
             throw new AssertionError("result is different than the expected result");
@@ -75,7 +75,7 @@ public class Testing {
         return minIdx;
     }
 
-    private static class testDataExactlyTwoDifferentMinimums {
+    private static class TestDataExactlyTwoDifferentMinimums {
 
         public static int[] getArray() {
 
@@ -88,7 +88,7 @@ public class Testing {
         }
     }
 
-    private static class testDataUniqueValues {
+    private static class TestDataUniqueValues {
 
         public static int[] getArray() {
 
@@ -101,7 +101,7 @@ public class Testing {
         }
     }
 
-    private static class testDataEmptyArray {
+    private static class TestDataEmptyArray {
 
         public static int[] getArray() {
             return new int[]{};
