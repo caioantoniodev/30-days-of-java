@@ -11,3 +11,4 @@
 5️⃣ [Loops](https://github.com/caioantoniodev/30-days-of-java/tree/main/src/com/thirtydaysofthejava/day5) <br />
 6️⃣ [Review](https://github.com/caioantoniodev/30-days-of-java/tree/main/src/com/thirtydaysofthejava/day6) <br />
 7️⃣ [Arrays](https://github.com/caioantoniodev/30-days-of-java/tree/main/src/com/thirtydaysofthejava/day7) <br />
+8️⃣ [Dictionary](https://github.com/caioantoniodev/30-days-of-java/tree/main/src/com/thirtydaysofthejava/day8) <br />
