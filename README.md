@@ -12,3 +12,4 @@
 6️⃣ [Review](https://github.com/caioantoniodev/30-days-of-java/tree/main/src/com/thirtydaysofthejava/day6) <br />
 7️⃣ [Arrays](https://github.com/caioantoniodev/30-days-of-java/tree/main/src/com/thirtydaysofthejava/day7) <br />
 8️⃣ [Dictionary](https://github.com/caioantoniodev/30-days-of-java/tree/main/src/com/thirtydaysofthejava/day8) <br />
+9️⃣ [Factorial](https://github.com/caioantoniodev/30-days-of-java/tree/main/src/com/thirtydaysofthejava/day9) <br />
