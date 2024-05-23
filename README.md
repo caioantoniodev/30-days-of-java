@@ -14,7 +14,7 @@
 8️⃣ [Dictionary](https://github.com/caioantoniodev/30-days-of-java/tree/main/src/com/thirtydaysofthejava/day8) <br />
 9️⃣ [Factorial](https://github.com/caioantoniodev/30-days-of-java/tree/main/src/com/thirtydaysofthejava/day9) <br />
 🔟 [Binary](https://github.com/caioantoniodev/30-days-of-java/tree/main/src/com/thirtydaysofthejava/day10) <br />
-1️⃣1️⃣ <br />
+1️⃣1️⃣ [Arrays2D](https://github.com/caioantoniodev/30-days-of-java/tree/main/src/com/thirtydaysofthejava/day11) <br />
 1️⃣2️⃣ <br />
 1️⃣2️⃣ <br />
 1️⃣3️⃣ <br />
