@@ -17,7 +17,7 @@
 1️⃣1️⃣ [Arrays2D](https://github.com/caioantoniodev/30-days-of-java/tree/main/src/com/thirtydaysofthejava/day11) <br />
 1️⃣2️⃣ [Inheritance](https://github.com/caioantoniodev/30-days-of-java/tree/main/src/com/thirtydaysofthejava/day12) <br />
 1️⃣3️⃣ [Abstract](https://github.com/caioantoniodev/30-days-of-java/tree/main/src/com/thirtydaysofthejava/day13) <br />
-1️⃣4️⃣ <br />
+1️⃣4️⃣ [Scope](https://github.com/caioantoniodev/30-days-of-java/tree/main/src/com/thirtydaysofthejava/day13) <br />
 1️⃣5️⃣ <br />
 1️⃣6️⃣ <br />
 1️⃣7️⃣ <br />
