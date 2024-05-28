@@ -19,7 +19,7 @@
 1️⃣3️⃣ [Abstract](https://github.com/caioantoniodev/30-days-of-java/tree/main/src/com/thirtydaysofthejava/day13) <br />
 1️⃣4️⃣ [Scope](https://github.com/caioantoniodev/30-days-of-java/tree/main/src/com/thirtydaysofthejava/day14) <br />
 1️⃣5️⃣ [LinkedList](https://github.com/caioantoniodev/30-days-of-java/tree/main/src/com/thirtydaysofthejava/day15) <br />
-1️⃣6️⃣ <br />
+1️⃣6️⃣ [Exceptions](https://github.com/caioantoniodev/30-days-of-java/tree/main/src/com/thirtydaysofthejava/day16) <br />
 1️⃣7️⃣ <br />
 1️⃣8️⃣ <br />
 1️⃣9️⃣ <br />
