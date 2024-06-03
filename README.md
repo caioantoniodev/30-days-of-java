@@ -23,7 +23,7 @@
 1️⃣7️⃣ [Exceptions](https://github.com/caioantoniodev/30-days-of-java/tree/main/src/com/thirtydaysofthejava/day17) <br />
 1️⃣8️⃣ [Palindrome](https://github.com/caioantoniodev/30-days-of-java/tree/main/src/com/thirtydaysofthejava/day18) <br />
 1️⃣9️⃣ [Interfaces](https://github.com/caioantoniodev/30-days-of-java/tree/main/src/com/thirtydaysofthejava/day19) <br />
-2️⃣0️⃣ <br />
+2️⃣0️⃣ [Sorting](https://github.com/caioantoniodev/30-days-of-java/tree/main/src/com/thirtydaysofthejava/day20) <br />
 2️⃣1️⃣ <br />
 2️⃣2️⃣ <br />
 2️⃣2️⃣ <br />
