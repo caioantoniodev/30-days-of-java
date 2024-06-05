@@ -25,7 +25,7 @@
 1️⃣9️⃣ [Interfaces](https://github.com/caioantoniodev/30-days-of-java/tree/main/src/com/thirtydaysofthejava/day19) <br />
 2️⃣0️⃣ [Sorting](https://github.com/caioantoniodev/30-days-of-java/tree/main/src/com/thirtydaysofthejava/day20) <br />
 2️⃣1️⃣ [Generics](https://github.com/caioantoniodev/30-days-of-java/tree/main/src/com/thirtydaysofthejava/day21) <br />
-2️⃣2️⃣ <br />
+2️⃣2️⃣ [BinarySearchTrees](https://github.com/caioantoniodev/30-days-of-java/tree/main/src/com/thirtydaysofthejava/day22) <br />
 2️⃣2️⃣ <br />
 2️⃣3️⃣ <br />
 2️⃣4️⃣ <br />
