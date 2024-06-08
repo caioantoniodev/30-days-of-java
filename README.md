@@ -28,10 +28,10 @@
 2️⃣2️⃣ [BinarySearchTrees](https://github.com/caioantoniodev/30-days-of-java/tree/main/src/com/thirtydaysofthejava/day22) <br />
 2️⃣3️⃣ <br />
 2️⃣4️⃣ <br />
-2️⃣4️⃣ <br />
 2️⃣5️⃣ <br />
 2️⃣6️⃣ <br />
 2️⃣7️⃣ <br />
 2️⃣8️⃣ <br />
 2️⃣9️⃣ <br />
 3️⃣0️⃣ <br />
+3️⃣1️⃣ <br />
