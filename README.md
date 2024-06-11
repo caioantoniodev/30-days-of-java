@@ -28,7 +28,7 @@
 2️⃣2️⃣ [BinarySearchTrees](https://github.com/caioantoniodev/30-days-of-java/tree/main/src/com/thirtydaysofthejava/day22) <br />
 2️⃣3️⃣ [LevelOrderTraversal](https://github.com/caioantoniodev/30-days-of-java/tree/main/src/com/thirtydaysofthejava/day23) <br />
 2️⃣4️⃣ [MoreLinkedLists](https://github.com/caioantoniodev/30-days-of-java/tree/main/src/com/thirtydaysofthejava/day24) <br />
-2️⃣5️⃣ <br />
+2️⃣5️⃣ [RunningTimeComplexity](https://github.com/caioantoniodev/30-days-of-java/tree/main/src/com/thirtydaysofthejava/day25) <br />
 2️⃣6️⃣ <br />
 2️⃣7️⃣ <br />
 2️⃣8️⃣ <br />
