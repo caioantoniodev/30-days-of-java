@@ -30,7 +30,7 @@
 2️⃣4️⃣ [MoreLinkedLists](https://github.com/caioantoniodev/30-days-of-java/tree/main/src/com/thirtydaysofthejava/day24) <br />
 2️⃣5️⃣ [RunningTimeComplexity](https://github.com/caioantoniodev/30-days-of-java/tree/main/src/com/thirtydaysofthejava/day25) <br />
 2️⃣6️⃣ [NestedLogic](https://github.com/caioantoniodev/30-days-of-java/tree/main/src/com/thirtydaysofthejava/day26) <br />
-2️⃣7️⃣ <br />
+2️⃣7️⃣ [Testing](https://github.com/caioantoniodev/30-days-of-java/tree/main/src/com/thirtydaysofthejava/day27) <br />
 2️⃣8️⃣ <br />
 2️⃣9️⃣ <br />
 3️⃣0️⃣ <br />
