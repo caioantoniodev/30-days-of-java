@@ -32,6 +32,6 @@
 2️⃣6️⃣ [NestedLogic](https://github.com/caioantoniodev/30-days-of-java/tree/main/src/com/thirtydaysofthejava/day26) <br />
 2️⃣7️⃣ [Testing](https://github.com/caioantoniodev/30-days-of-java/tree/main/src/com/thirtydaysofthejava/day27) <br />
 2️⃣8️⃣ [RegExPatternsDatabases](https://github.com/caioantoniodev/30-days-of-java/tree/main/src/com/thirtydaysofthejava/day28) <br />
-2️⃣9️⃣ <br />
+2️⃣9️⃣ [BitwiseAND](https://github.com/caioantoniodev/30-days-of-java/tree/main/src/com/thirtydaysofthejava/day29) <br />
 3️⃣0️⃣ <br />
 3️⃣1️⃣ <br />
